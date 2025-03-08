@@ -17,8 +17,8 @@ Hi 👋, I'm Rishil Shah – Debugging My Way to Greatness 🐞 | USF Senior �
 [![](https://visitcount.itsvg.in/api?id=rshah2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rshah2001/rshah2001/output/github-snake-dark.svg" type="image/svg+xml"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rshah2001/rshah2001/output/github-snake.svg" type="image/svg+xml"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rshah2001/rshah2001/output/github-snake-dark.svg" type="image/svg+xml"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rshah2001/rshah2001/output/github-snake.svg" type="image/svg+xml"/>
     <img src="https://raw.githubusercontent.com/rshah2001/rshah2001/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" height="auto"/>
 </picture>
 
