@@ -1,7 +1,7 @@
-# 💫 About Me:
-Hi 👋, I'm Rishil Shah – Debugging My Way to Greatness 🐞
-<br>🎓 MS in Computer Science (in progress) | USF Graduate 🚀<br>
-💻 Aspiring Software Developer | Passionate about Problem-Solving & Innovation
+# About Me:
+Hi , I'm Rishil Shah – Debugging My Way to Greatness 🐞
+<br>🎓 MS in Computer Science (in progress) | USF Graduate 🐂 <br>
+Aspiring Software Developer | Passionate about Problem-Solving & Innovation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishil1211) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishilshah1211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishil1211@icloud.com) 
