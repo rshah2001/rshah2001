@@ -9,6 +9,25 @@ I build AI systems that turn messy data into decisions: LLM agents and RAG pipel
 
 <br>
 
+## Toolkit
+
+<img src="assets/stack-dark.svg#gh-dark-mode-only" width="100%" alt="Toolkit in five groups: data and cloud, backend, AI, machine learning and geospatial, and apps.">
+<img src="assets/stack-light.svg#gh-light-mode-only" width="100%" alt="Toolkit in five groups: data and cloud, backend, AI, machine learning and geospatial, and apps.">
+
+<details>
+<summary>Toolkit as text</summary>
+<br>
+
+- **Data and cloud:** PostgreSQL, TimescaleDB, Snowflake, AWS, Docker, GitHub Actions
+- **Backend:** Python, FastAPI, Django, Flask, Node.js, C, C#
+- **AI:** LLM agents and multi-agent orchestration, RAG, OpenAI, Gemini, LangChain, ChromaDB
+- **Machine learning and geospatial:** scikit-learn, XGBoost, Random Forest, Google Earth Engine, Sentinel-2, spatial statistics
+- **Apps:** React, React Native, Flutter, TypeScript, Firebase, Streamlit
+
+</details>
+
+<br>
+
 ## Selected work
 
 <table>
@@ -139,22 +158,3 @@ Machine-learning and Bayesian spatial models on satellite and public-health data
 
 **Software Development Intern, Galileo Group** &nbsp;·&nbsp; Summer 2023<br>
 Faster, more reliable image-processing and facial-recognition pipelines with fewer false positives.
-
-<br>
-
-## Toolkit
-
-<img src="assets/stack-dark.svg#gh-dark-mode-only" width="100%" alt="Toolkit in five groups: data and cloud, backend, AI, machine learning and geospatial, and apps.">
-<img src="assets/stack-light.svg#gh-light-mode-only" width="100%" alt="Toolkit in five groups: data and cloud, backend, AI, machine learning and geospatial, and apps.">
-
-<details>
-<summary>Toolkit as text</summary>
-<br>
-
-- **Data and cloud:** PostgreSQL, TimescaleDB, Snowflake, AWS, Docker, GitHub Actions
-- **Backend:** Python, FastAPI, Django, Flask, Node.js, C, C#
-- **AI:** LLM agents and multi-agent orchestration, RAG, OpenAI, Gemini, LangChain, ChromaDB
-- **Machine learning and geospatial:** scikit-learn, XGBoost, Random Forest, Google Earth Engine, Sentinel-2, spatial statistics
-- **Apps:** React, React Native, Flutter, TypeScript, Firebase, Streamlit
-
-</details>
