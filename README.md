@@ -1,10 +1,5 @@
-<a href="https://rishil121.vercel.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header-dark.svg" width="100%" alt="Rishil Shah. AI systems, backend infrastructure, and geospatial analytics.">
-  </picture>
-</a>
+<a href="https://rishil121.vercel.app/#gh-dark-mode-only"><img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="Rishil Shah. AI systems, backend infrastructure, and geospatial analytics."></a>
+<a href="https://rishil121.vercel.app/#gh-light-mode-only"><img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="Rishil Shah. AI systems, backend infrastructure, and geospatial analytics."></a>
 
 <br>
 
@@ -19,60 +14,80 @@ I build AI systems that turn messy data into decisions: LLM agents and RAG pipel
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rshah2001/runway">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/runway-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/runway-light.svg">
-          <img src="assets/runway-dark.svg" width="100%" alt="A balance forecast that dips below the safe line and is lifted back.">
-        </picture>
-      </a>
+      <a href="https://github.com/rshah2001/runway#gh-dark-mode-only"><img src="assets/runway-dark.svg#gh-dark-mode-only" width="100%" alt="A balance forecast that dips below the safe line and is lifted back."></a>
+      <a href="https://github.com/rshah2001/runway#gh-light-mode-only"><img src="assets/runway-light.svg#gh-light-mode-only" width="100%" alt="A balance forecast that dips below the safe line and is lifted back."></a>
       <h3>Runway</h3>
       <p>A banking app that forecasts your balance day by day and, before you run short, arranges consent-based help from family and friends, sized so it is safe for each helper and without anyone seeing anyone else's balance.</p>
       <p><b>Winner, Best Use of Nessie API (Capital One), SwampHacks XII.</b> 85 pull requests merged in about 48 hours by a team of three.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>TimescaleDB</code> <code>Gemini</code> <code>React Native</code> <code>Docker</code></p>
       <p><a href="https://sixsevenbucksleft.vip">Live</a> &nbsp;·&nbsp; <a href="https://github.com/rshah2001/runway">Code</a></p>
+      <details>
+        <summary>How it works</summary>
+        <br>
+        <ul>
+          <li>A forecast engine on FastAPI and TimescaleDB projects the balance day by day.</li>
+          <li>The Network Guardian sizes each supporter's safe contribution from their own cautious forecast, then splits a shortfall across the fewest supporters.</li>
+          <li>Money moves through the Nessie API as journaled, idempotent transfers, with automatic repayment on payday.</li>
+          <li>A Gemini assistant runs behind a runtime privacy guard that scored 15 of 15 on the privacy evaluation.</li>
+          <li>Shipped to web, iOS, and Android with Docker, Auth0, and GitHub Actions.</li>
+        </ul>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rshah2001/Marketplace-AI-Agent">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/marketplace-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/marketplace-light.svg">
-          <img src="assets/marketplace-dark.svg" width="100%" alt="Listings plotted against the comparable-price band, one flagged as underpriced.">
-        </picture>
-      </a>
+      <a href="https://github.com/rshah2001/Marketplace-AI-Agent#gh-dark-mode-only"><img src="assets/marketplace-dark.svg#gh-dark-mode-only" width="100%" alt="Listings plotted against the comparable-price band, one flagged as underpriced."></a>
+      <a href="https://github.com/rshah2001/Marketplace-AI-Agent#gh-light-mode-only"><img src="assets/marketplace-light.svg#gh-light-mode-only" width="100%" alt="Listings plotted against the comparable-price band, one flagged as underpriced."></a>
       <h3>Marketplace AI Agent</h3>
       <p>A retrieval-augmented agent for people who resell. It reads a marketplace listing, pulls comparable resale context, and returns a recommendation on whether the flip is worth it and why.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>ChromaDB</code> <code>OpenAI</code> <code>Streamlit</code></p>
       <p><a href="https://github.com/rshah2001/Marketplace-AI-Agent">Code</a></p>
+      <details>
+        <summary>How it works</summary>
+        <br>
+        <ul>
+          <li>A retrieval pipeline over ChromaDB supplies resale context for each listing.</li>
+          <li>A FastAPI service passes the listing and that context to an OpenAI model, which writes the recommendation.</li>
+          <li>A Streamlit interface sits on top.</li>
+        </ul>
+      </details>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rshah2001/BayShield-main">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/bayshield-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/bayshield-light.svg">
-          <img src="assets/bayshield-dark.svg" width="100%" alt="A radar sweep over the Tampa Bay coastline with one zone flagged.">
-        </picture>
-      </a>
+      <a href="https://github.com/rshah2001/BayShield-main#gh-dark-mode-only"><img src="assets/bayshield-dark.svg#gh-dark-mode-only" width="100%" alt="A radar sweep over the Tampa Bay coastline with one zone flagged."></a>
+      <a href="https://github.com/rshah2001/BayShield-main#gh-light-mode-only"><img src="assets/bayshield-light.svg#gh-light-mode-only" width="100%" alt="A radar sweep over the Tampa Bay coastline with one zone flagged."></a>
       <h3>BayShield</h3>
       <p>A real-time, multi-agent disaster response platform for Tampa Bay. It assesses threats from live NOAA and NWS feeds, maps vulnerable zones, and coordinates emergency actions.</p>
       <p><b>3rd place, HackUSF.</b> Presented to the Tampa Bay Regional Planning Council.</p>
       <p><code>TypeScript</code> <code>React</code> <code>Python</code> <code>Snowflake</code> <code>AWS</code></p>
       <p><a href="https://github.com/rshah2001/BayShield-main">Code</a></p>
+      <details>
+        <summary>How it works</summary>
+        <br>
+        <ul>
+          <li>Python ingestion services and Snowflake SQL pipelines feed the live monitoring dashboard.</li>
+          <li>Separate agents assess the threat, map vulnerable zones, and coordinate the response.</li>
+          <li>The front end is React and TypeScript with Google Maps.</li>
+        </ul>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rshah2001/Interpolator">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/habitat-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/habitat-light.svg">
-          <img src="assets/habitat-dark.svg" width="100%" alt="A raster of cells scored for similarity against a reference site.">
-        </picture>
-      </a>
+      <a href="https://github.com/rshah2001/Interpolator#gh-dark-mode-only"><img src="assets/habitat-dark.svg#gh-dark-mode-only" width="100%" alt="A raster of cells scored for similarity against a reference site."></a>
+      <a href="https://github.com/rshah2001/Interpolator#gh-light-mode-only"><img src="assets/habitat-light.svg#gh-light-mode-only" width="100%" alt="A raster of cells scored for similarity against a reference site."></a>
       <h3>Habitat Similarity Mapping</h3>
       <p>Geospatial machine learning on Sentinel-2 satellite imagery. Given a reference site, it scores every other location for environmental similarity and renders the result as an interactive map.</p>
       <p><code>Python</code> <code>Google Earth Engine</code> <code>Random Forest</code> <code>Geemap</code></p>
       <p><a href="https://github.com/rshah2001/Interpolator">Code</a></p>
+      <details>
+        <summary>How it works</summary>
+        <br>
+        <ul>
+          <li>Google Earth Engine supplies Sentinel-2 imagery for the study area.</li>
+          <li>A Random Forest model scores each location against the reference site.</li>
+          <li>Geemap renders the scores as an interactive map.</li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
@@ -113,52 +128,33 @@ I work on geospatial AI for public health at USF: training models on satellite a
 
 ## Experience
 
-<table>
-  <tr>
-    <td valign="top"><b>AI Architect Intern</b><br>NMEDA</td>
-    <td valign="top" nowrap>May 2026 – now</td>
-    <td valign="top">LLM agents and workflows inside production pipelines, plus ETL and data-reconciliation pipelines into PostgreSQL with authentication, role-based access, and audit logging.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>SCADA Developer</b><br>University of South Florida</td>
-    <td valign="top" nowrap>Jan 2025 – now</td>
-    <td valign="top">Real-time ingestion, monitoring, and dashboards across more than 200 building-automation systems, and the migration from Alerton to Niagara.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Graduate Research Assistant, Geospatial AI</b><br>University of South Florida</td>
-    <td valign="top" nowrap>Jul 2025 – now</td>
-    <td valign="top">Machine-learning and Bayesian spatial models on satellite and public-health data, producing the risk maps behind the publications above.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Software Development Intern</b><br>Galileo Group</td>
-    <td valign="top" nowrap>Summer 2023</td>
-    <td valign="top">Faster, more reliable image-processing and facial-recognition pipelines with fewer false positives.</td>
-  </tr>
-</table>
+**AI Architect Intern, NMEDA** &nbsp;·&nbsp; May 2026 – now<br>
+LLM agents and workflows inside production pipelines, plus ETL and data-reconciliation pipelines into PostgreSQL with authentication, role-based access, and audit logging.
+
+**SCADA Developer, University of South Florida** &nbsp;·&nbsp; Jan 2025 – now<br>
+Real-time ingestion, monitoring, and dashboards across more than 200 building-automation systems, and the migration from Alerton to Niagara.
+
+**Graduate Research Assistant in Geospatial AI, University of South Florida** &nbsp;·&nbsp; Jul 2025 – now<br>
+Machine-learning and Bayesian spatial models on satellite and public-health data, producing the risk maps behind the publications above.
+
+**Software Development Intern, Galileo Group** &nbsp;·&nbsp; Summer 2023<br>
+Faster, more reliable image-processing and facial-recognition pipelines with fewer false positives.
 
 <br>
 
 ## Toolkit
 
-<table>
-  <tr>
-    <td valign="top"><b>AI</b></td>
-    <td valign="top">LLM agents and multi-agent orchestration, RAG, OpenAI, Gemini, LangChain, ChromaDB, scikit-learn, XGBoost</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Backend</b></td>
-    <td valign="top">Python, FastAPI, Django, Flask, Node.js, REST APIs, C, C#</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Data and cloud</b></td>
-    <td valign="top">PostgreSQL, TimescaleDB, Snowflake, ETL/ELT, AWS, Docker, GitHub Actions</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Apps</b></td>
-    <td valign="top">React, React Native, Flutter, TypeScript</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Geospatial</b></td>
-    <td valign="top">Google Earth Engine, Sentinel-2, spatial statistics</td>
-  </tr>
-</table>
+<img src="assets/stack-dark.svg#gh-dark-mode-only" width="100%" alt="Toolkit in five groups: data and cloud, backend, AI, machine learning and geospatial, and apps.">
+<img src="assets/stack-light.svg#gh-light-mode-only" width="100%" alt="Toolkit in five groups: data and cloud, backend, AI, machine learning and geospatial, and apps.">
+
+<details>
+<summary>Toolkit as text</summary>
+<br>
+
+- **Data and cloud:** PostgreSQL, TimescaleDB, Snowflake, AWS, Docker, GitHub Actions
+- **Backend:** Python, FastAPI, Django, Flask, Node.js, C, C#
+- **AI:** LLM agents and multi-agent orchestration, RAG, OpenAI, Gemini, LangChain, ChromaDB
+- **Machine learning and geospatial:** scikit-learn, XGBoost, Random Forest, Google Earth Engine, Sentinel-2, spatial statistics
+- **Apps:** React, React Native, Flutter, TypeScript, Firebase, Streamlit
+
+</details>
